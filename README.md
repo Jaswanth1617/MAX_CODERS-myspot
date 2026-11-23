@@ -263,8 +263,4 @@ npm run preview
 ## 📜 License
 This project is licensed under the **MIT License**.
 
----
 
-## 👥 Authors & Acknowledgments
-* **Jaswanth** ([@Jaswanth1617](https://github.com/Jaswanth1617)) — Architecture, Frontend Engineering, AI & IoT Integration.
-* Powered by [Ultralytics](https://ultralytics.com), [PaddlePaddle](https://www.paddlepaddle.org.cn/), and [OpenStreetMap](https://www.openstreetmap.org/).
